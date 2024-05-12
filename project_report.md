@@ -1,10 +1,10 @@
 # Counteracting Misinformation by AI Using Deepfake Detection Algorithms
 
 ## Team
-- [Amol Borkar](https://github.com/amolbrkr)
+- [Jash Dharia](https://github.com/JashDharia)
 - [Austin Rodrigues](https://github.com/austin-rodrigues)
 - [Abhishek Shinde](https://github.com/Abhishek1897)
-- [Jash Dharia](https://github.com/JashDharia)
+- [Amol Borkar](https://github.com/amolbrkr)
 
 ## Introduction
 Recent advancements in Generative AI have allowed widespread creation (with tools such as FaceSwap) of Deepfake images and videos that circulate on Social Media. This makes it easy for nefarious agents to use GenAI to impersonate people or cause harm to one's reputation.
